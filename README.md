@@ -1,4 +1,4 @@
-# GoCalc: The Arithmetic Alchemist
+# GoCalc: Interactive command-line calculator
 
 GoCalc is an advanced, interactive command-line calculator written in Go. It combines the simplicity of a basic calculator with the power of a scientific computing tool.
 
@@ -18,7 +18,7 @@ GoCalc is an advanced, interactive command-line calculator written in Go. It com
 
 2. Clone the repository:
    ```
-   git clone https://github.com/yourusername/gocalc.git
+   git clone https://github.com/Bansnetsajak007/GoCalc.git
    cd gocalc
    ```
 
